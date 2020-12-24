@@ -1,0 +1,27 @@
+.bg-pink{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(236,8,154,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+
+.margin-bottom{
+    margin-bottom: 20px;
+}
+
+th{
+    background-color: #6f0562;
+}
+
+.bg-purple{
+    background: #883075;
+    color: aliceblue;
+}
+
+.space-left{
+    padding-left: 10px;
+}
+
+.bg-table{
+    background-image: linear-gradient(rgb(217 23 241 / 50%),rgb(69 8 255 / 30%));
+    color:white;
+}
